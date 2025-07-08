@@ -10,6 +10,7 @@ Currently transitioning into development with hands-on projects in **React Nativ
 
 ---
 
+
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,6 +25,7 @@ Currently transitioning into development with hands-on projects in **React Nativ
 
 ---
 
+
 ## 🧠 Currently learning
 
 - Advanced **React Native** with Expo Router
@@ -32,6 +34,7 @@ Currently transitioning into development with hands-on projects in **React Nativ
 - German 🇩🇪 – B1 level and progressing!
 
 ---
+
 
 ## 💼 Featured Projects
 
@@ -45,6 +48,7 @@ Stay tuned for updates and new releases!
 
 ---
 
+
 ## 🌍 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/laryssa-andressa-mega-cruz-121698220/)
@@ -53,11 +57,18 @@ Stay tuned for updates and new releases!
 
 ---
 
+
 ## 📊 GitHub Stats
 
 ![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andressa-Mega&show_icons=true&theme=github_dark&hide=stars,prs)
 
----
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Mega&layout=compact&theme=github_dark&langs_count=6)
+
+
+
 
 > “The only way to do great work is to love what you do.” – Steve Jobs
-
